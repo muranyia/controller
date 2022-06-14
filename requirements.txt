@@ -1,0 +1,15 @@
+asyncio
+countio
+time
+random
+busio
+neopixel
+digitalio
+displayio
+rotaryio
+adafruit_display_text
+adafruit_bitmap_font
+adafruit_displayio_ssd1306
+adafruit_mcp230xx
+adafruit_24lc32 
+adafruit_midi

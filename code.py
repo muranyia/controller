@@ -15,8 +15,7 @@ import displayio
 from adafruit_display_text import label
 from adafruit_bitmap_font import bitmap_font
 import adafruit_displayio_ssd1306
-from adafruit_mcp230xx.mcp23017 import MCP23017        # mcp23017 I1C GPIO expander
-#import adafruit_24lc32                                 # 24LC32 I2C EEPROM
+from adafruit_mcp230xx.mcp23017 import MCP23017        # mcp23017 I2C GPIO expander
 import adafruit_fram                                   # MB85RC256V 256Kbit/32KByte FRAM
 import adafruit_midi
 from adafruit_midi import MIDI
